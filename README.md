@@ -13,6 +13,7 @@ Shine Smile is a responsive dental care website designed to showcase dental serv
 - 📅 Appointment Section: Encourages scheduling with a contact number.
 - 🖱 Footer: Includes support links, social media, and a newsletter subscription form.
 📂 File Structure
+'''
 ├── index.html                # Main HTML file
 ├── assets/
 │   ├── css/
@@ -21,7 +22,7 @@ Shine Smile is a responsive dental care website designed to showcase dental serv
 │   │   └── responsive.css   # Tablet and mobile responsive styles
 │   ├── img/                 # Images for logo, hero, services, team, blog
 │   └── favicon/             # Favicon files for various devices
-
+'''
 🚀 Setup Instructions
 1. Clone or Download:
   - Clone the repository or download the project files.
